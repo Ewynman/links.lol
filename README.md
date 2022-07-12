@@ -1,1 +1,5 @@
-# links.lol
+Custoom Linktree to display all my links
+
+Can be found here:
+
+#eddie.lol
